@@ -1,8 +1,12 @@
-gst-fluendo-mp3 (0.10.32.deepin-1+back) UNRELEASED; urgency=medium
+gst-fluendo-mp3 (0.10.32.deepin-2+back) unstable; urgency=medium
 
+  [ Maintainers of GStreamer packages ]
   * update
 
- -- Maintainers of GStreamer packages <pkg-gstreamer-maintainers@lists.alioth.debian.org>  Tue, 24 May 2022 21:42:30 -0400
+  [ tunaichao ]
+  * Rebuild with LTO enabled (dpkg vendor feature optimize/lto).
+
+ -- tunaichao <tunaichao@uniontech.com>  Fri, 11 Sep 2026 15:06:05 +0800
 
 gst-fluendo-mp3 (0.10.32.deepin-1+back) unstable; urgency=low
 
